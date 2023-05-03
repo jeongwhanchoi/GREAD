@@ -14,7 +14,7 @@ Reaction-diffusion on a grid graph |  Diffusion on a grid network
 
 GREAD on Cora Network |
 :-------------------------:|
-<img src="asset/gif/cora_gread_step{0.1}.gif" width="500">
+<img src="asset/gif/cora_gread_step.gif" width="500">
 
 ---
 
