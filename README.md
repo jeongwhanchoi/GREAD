@@ -12,9 +12,6 @@ Reaction-diffusion on a grid graph |  Diffusion on a grid network
 
 > An illustrative comparison between the diffusion equation and our proposed blurring-sharpening (reaction-diffusion) equation on a grid graph with one-dimensional node features. The diffusion equation causes the problem of oversmoothing while the reaction-diffusion seeks a balance between smoothing and sharpening
 
-GREAD on Cora Network |
-:-------------------------:|
-<img src="asset/gif/cora_gread_step.gif" width="500">
 
 ---
 
