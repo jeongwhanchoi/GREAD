@@ -57,3 +57,7 @@ If you find this repository useful in your research, please cite our paper:
   year={2023}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jeongwhanchoi/GREAD&type=Date)](https://star-history.com/#jeongwhanchoi/GREAD&Date)
